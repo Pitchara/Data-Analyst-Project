@@ -1,2 +1,3 @@
 # Data-Analyst-Project
-My data science and analytics projects
+I am currently practicing and improving my data analysis skills.
+This following list are my project.
