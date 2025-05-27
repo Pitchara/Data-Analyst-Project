@@ -1,6 +1,3 @@
-# Data-Analyst-Project
-Now, I am a Rotating Reliability Solution Engineer with more than two years of experience, I have focused on reducing plant breakdowns and ensuring optimal machine health through predictive maintenance strategies. Additionally, I enhance my skills in data analytics through self-learning, data analytics bootcamp and seeking a position that offers the opportunity to change my career path to data analyst.
-
 **Projects**
 1. Shaft centerline of centrifugal compressor<br>
 I collected raw data from the vibration probes and used it to analyze the shaft centerline.
