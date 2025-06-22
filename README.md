@@ -11,3 +11,8 @@ I have a demo dataset containing sales transaction data.
 - 2.3 In the last 7 days, total spending in regions N03, W01, and S03 has shown a declining trend. These regions should be prioritized for further investigation to understand the cause.
 Additionally, product D00002 was the most popular. It may be beneficial to create a promotion that combines this high-performing product with lower-selling products to boost overall sales.
    ![image](https://github.com/user-attachments/assets/71e2bda1-14d0-4126-b72e-259268a69b73)
+
+3. The Secret Sauce Podcast Performance
+   ![image](https://github.com/user-attachments/assets/42170a55-f49a-43fa-859f-75eb00a17ef5)
+
+
